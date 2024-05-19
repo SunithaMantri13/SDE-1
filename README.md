@@ -58,17 +58,3 @@ RESPONSE:
 
 
 
-Log Files
-The application generates the following log files in the root directory:
-
-debug.log
-error.log
-info.log
-warning.log
-CSS Styling
-The application's CSS styles are defined in the static/styles.css file.
-
-File Descriptions
-app.py: Main application file.
-static/styles.css: CSS file for styling the search form and other elements.
-
