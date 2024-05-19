@@ -56,6 +56,8 @@ RESPONSE:
     "status": "success"
 }
 
+
+
 Log Files
 The application generates the following log files in the root directory:
 
