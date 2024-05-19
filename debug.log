@@ -1,0 +1,20 @@
+2024-05-14 11:31:51,046 - debug_logger - DEBUG - {"level": "debug", "log_string": "s", "timestamp": "2024-05-14T06:01:51.039308Z", "metadata": {"source": "debug.log"}}
+2024-05-14 11:34:28,173 - debug_logger - DEBUG - {"level": "debug", "log_string": "s", "timestamp": "2024-05-14T06:04:28.169449Z", "metadata": {"source": "debug.log"}}
+2024-05-14 11:56:35,087 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-14T06:26:35.085649Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:25,100 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:25.100650Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:26,169 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:26.169200Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:27,196 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:27.196365Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:28,128 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:28.124652Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:29,208 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:29.208498Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:30,049 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:30.049809Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:30,994 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:30.994914Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:31,764 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:31.764290Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:32,901 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:32.901892Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:33,727 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:33.727937Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:36,261 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:36.261699Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:37,274 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:37.274778Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:38,144 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:38.144798Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:39,095 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:39.095405Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:39,983 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:39.983315Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:41,058 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:41.058765Z", "metadata": {"source": "debug.log"}}
+2024-05-16 15:01:41,950 - debug_logger - DEBUG - {"level": "debug", "log_string": "This is a debug api call", "timestamp": "2024-05-16T09:31:41.950570Z", "metadata": {"source": "debug.log"}}
